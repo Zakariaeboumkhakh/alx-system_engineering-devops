@@ -1,2 +1,3 @@
-#!/bin/bach 
-ls -la
+#!/bin/bash
+ls -al
+
